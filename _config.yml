@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://statuswolf.github.io
+title: The Wolf Pack
+email: statuswolf.io@gmail.com
+author: StatusWolf
+description: This will keep you up to date on services, upgrades and future work for StatusWolf
+paginate: 10
+google_analytics: 
